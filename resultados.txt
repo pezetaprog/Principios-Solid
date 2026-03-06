@@ -6,3 +6,12 @@ Resultado: 0
 Resultado: 23
 Resultado: 16
 Resultado: 1
+Resultado: 34
+Resultado: 15
+Resultado: 0
+Resultado: 11
+Resultado: 1
+Resultado: 22
+Resultado: 34
+Resultado: 0
+Resultado: 0
